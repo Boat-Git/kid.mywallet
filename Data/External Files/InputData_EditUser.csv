@@ -1,0 +1,4 @@
+1001,Edit all fields,Test_RF123,UAT Test ABC,Super Admin,081-234-5678,Edit-01@robotframework.com,1,Data has been saved successfully,Positive
+1002,Input only mandatory fields,Test_RF456,UAT Test DEF,เจ้าหน้าทั่วไป,,,0,Data has been saved successfully,Positive
+1003,Exists username,Test_RF000,UAT Test GHI,new admin,082-345-6789,Edit-03@robotframework.com,0,Username is already exists.,Negative
+1004,Leaves mandatory fields,,,Please Select Role Permission,083-456-7890,Edit-04@robotframework.com,1,,Negative
